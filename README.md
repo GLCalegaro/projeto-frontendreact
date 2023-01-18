@@ -29,8 +29,8 @@ O projeto consiste em 3 grandes partes:
             
 3. Shop
     - A pagina exibirá uma lista de todos os produtos disponiveis no e-commerce, com os dados do produto (imagem, nome, preço) que poderão ser adicionados no carrinho     pelo botão de "+", podendo ser ordenado pela ordem do Preço Maior para o Menor e vice-versa;
-    - Deve haver alguma forma de ordenar os produtos por ordem crescente ou decrescente de preço (pode ser na home em si ou junto dos filtros);
-    - Por valor mínimo e máximo;
+    - É possível ordenar os produtos por ordem crescente ou decrescente de preço (pode ser na home em si ou junto dos filtros);
+    - Ao clicar nos nomes das viagens nesta página, é possível ver mais detalhes sobre;
     - Por nome do produto;
     
     ![image](https://user-images.githubusercontent.com/111308068/212761652-2f25a6ea-8948-49a8-90f6-97d235f3052e.png)
