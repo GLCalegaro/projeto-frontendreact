@@ -8,6 +8,7 @@
 **Space Destiny** é o projeto de introdução aos fundamentos do React. O objetivo é que funcione como o front-end de um E-Commerce de viagens espaciais. Esse projeto foi trabalhado com toda a estrutura que compõe o React, como: JSX, Componentes, Props, Estado, Fluxo de dados no React, Renderização de listas, Renderização condicional e localStorage.
 
 <a href="https://diligent-blow.surge.sh/home">Acesse aqui a página do projeto Space Destiny</a>
+<h4>Alguns conteúdos do projeto foram baseados no site <a href="https://www.virgingalactic.com/">Virgin Galactic!</a></h4>
 
 ## Descrição:
 
